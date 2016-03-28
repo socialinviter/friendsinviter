@@ -1,3 +1,4 @@
+
 # Friends Inviter - SocialInviter
 Invite/send invitation to friends from social networks such as Twitter, Google, Xing and Facebook. The script imports friends details such as name, id, addresses and picture. Completely painless and easy to integrate in your website.
 
@@ -31,8 +32,4 @@ To initialize the plugin
     socialinviter?socialinviter.load(SIConfiguration):15>loadInitFlg&&window.setTimeout(loadConf,200)})},
     250)};window.setTimeout(loadConf,200);
 ```
-
-
-
-
 
